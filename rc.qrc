@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/btn_pause_normal.png</file>
+        <file>image/btn_pause_press.png</file>
+        <file>image/btn_play_normal.png</file>
+        <file>image/btn_play_press.png</file>
+    </qresource>
+</RCC>
